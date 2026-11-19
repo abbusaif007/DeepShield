@@ -130,12 +130,6 @@ DeepShield/
 └── README.md
 ```
 
-## Author
-
-**Abbrar Saif Mohammed**
-
-Master's Student in Data Science  
-FAU Erlangen-Nürnberg
 
 GitHub: https://github.com/abbusaif007
 
